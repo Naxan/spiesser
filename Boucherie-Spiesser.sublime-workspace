@@ -1,0 +1,1310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"bac",
+				"bac	CSS background: #fff url('') 0 0 repeat;"
+			],
+			[
+				"snipp",
+				"snippet-comments-simple	routes"
+			],
+			[
+				"ba",
+				"bac	CSS background: #fff url('') 0 0 repeat;"
+			],
+			[
+				"hide",
+				"hideInscriptionNewsletter"
+			],
+			[
+				"JSON",
+				"json_encode"
+			],
+			[
+				"boucher",
+				"boucherSubMenu"
+			],
+			[
+				"snippet",
+				"snippet-comments-full	big-comment"
+			],
+			[
+				"JS",
+				"json_encode"
+			],
+			[
+				"bou",
+				"boutiqueMenu"
+			],
+			[
+				"march",
+				"marcheMenu"
+			],
+			[
+				"tra",
+				"traiteurMenu"
+			],
+			[
+				"snippe",
+				"snippet-comments-simple	routes"
+			],
+			[
+				"background-image",
+				"background-image"
+			],
+			[
+				"imgDir",
+				"imgDirBase"
+			],
+			[
+				"ad",
+				"addClass  (function)"
+			],
+			[
+				"fenetre",
+				"fenetreConnexion"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"pseudo",
+				"pseudo"
+			],
+			[
+				"form",
+				"FormData"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"Luci",
+				"\"Lucida Grande\""
+			],
+			[
+				"resize",
+				"resizeWidgetLine"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"text",
+				"textColor"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"widget",
+				"widgetContent"
+			],
+			[
+				"sel",
+				"selectedIndex"
+			],
+			[
+				"sele",
+				"selectOfficiel"
+			],
+			[
+				"getInfoClasse",
+				"getInfoClassementOfficel"
+			],
+			[
+				"selected",
+				"selectedIndex"
+			],
+			[
+				"class",
+				"classement"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"line-",
+				"line-height"
+			],
+			[
+				"vert",
+				"vertical-align"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"in",
+				"incl	include …"
+			],
+			[
+				"get",
+				"get_index"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/layouts/global.blade.php",
+			"settings":
+			{
+				"buffer_size": 2164,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/traiteur.blade.php",
+			"settings":
+			{
+				"buffer_size": 1987,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/marches.blade.php",
+			"settings":
+			{
+				"buffer_size": 2472,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/boucherie.blade.php",
+			"settings":
+			{
+				"buffer_size": 1983,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/charcuterie.blade.php",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/layouts/footer.blade.php",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/less/global.less",
+			"settings":
+			{
+				"buffer_size": 7943,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/less/variables.less",
+			"settings":
+			{
+				"buffer_size": 2503,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/lettre-information.js",
+			"settings":
+			{
+				"buffer_size": 1353,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/home.php",
+			"settings":
+			{
+				"buffer_size": 1316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/views/layouts/menu.blade.php",
+			"settings":
+			{
+				"buffer_size": 3071,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/menus.js",
+			"settings":
+			{
+				"buffer_size": 396,
+				"line_ending": "Windows",
+				"name": "snippet"
+			}
+		},
+		{
+			"file": "application/views/vitrine/presse.blade.php",
+			"settings":
+			{
+				"buffer_size": 2344,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/telechargement.blade.php",
+			"settings":
+			{
+				"buffer_size": 1380,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/layouts/info-container.blade.php",
+			"settings":
+			{
+				"buffer_size": 520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/js/info-container.js",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/routes.php",
+			"settings":
+			{
+				"buffer_size": 3588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "application/models/clients.php",
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/models/infos.php",
+			"settings":
+			{
+				"buffer_size": 446,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/vitrine.php",
+			"settings":
+			{
+				"buffer_size": 3195,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/boutique.blade.php",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/views/vitrine/commande.blade.php",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: TCManager"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 138.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/views/vitrine/index.blade.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/controllers/vitrine.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/public/css/knacss.css",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/migrations/2012_12_08_202417_add_infos.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/migrations/2012_12_08_201922_create_infos_table.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/controllers/base.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/base.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/articles.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/utilisateurs.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/migrations/2012_12_08_202343_add_infos_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_11_20_192243_add_articles.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/models/utilisateurs.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/migrations/2012_12_07_194619_create_clients_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/models/articles.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_11_20_191913_create_articles_table.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/config/database.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/config/database.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/views/layouts/info-container.blade.php",
+		"/D/Applications/Editeur de texte/Sublime Text 2/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/routes.php",
+		"/C/Users/T/AppData/Local/Temp/Rar$DRa0.004/stylesheet.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/global.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/config/variables.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/home/news.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/global.blade.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/config/application.php",
+		"/D/Travail/MINT/CurrentProjects/SpiesserWeb/application/controllers/home.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/html5-file-upload.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/connecte-utilisateur.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/modalBox.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/header.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/start.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/modalBox.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/config/club.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/utilisateurs/inscription.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/libraries/date.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/php/gestion-dates.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/utils/fonctions-utiles.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/models/club.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/home.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_11_17_213812_create_club_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_09_25_100052_create_club_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/administrateurs/administrer",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/administrateurs/administration",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_09_25_100052_create_joueurs_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_09_25_100115_add_joueurs.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/config/auth.php",
+		"/C/Users/T/Desktop/elements.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/config/mixins.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/xml/classements.xml",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/Blade Snippets/blade-input.sublime-snippet",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/knacss.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/inscription-utilisateur.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/menu.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/home/index.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/defaut.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/config/application.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/migrations/2012_10_11_235636_table.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps - Copie/application/views/home/index.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/master.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/mixins.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/inscription_functions.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/widget.less",
+		"/C/Users/T/Desktop/UIKIT/css/style.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/elements.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/header.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/class/FormValidation.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/ajax/inscriptionUtilisateur.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/ajax_fonctions.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/models/joueur.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/ajax.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps - Copie/application/config/application.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/filedrag.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/menu.less",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/models/joueurs.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/courts.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/TCManagerAPPS.sublime-workspace",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/responsiveDesign.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/utilisateurs/inscriptionOld.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/inscription.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/layouts/header1.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/ajax/uploadImg.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/auth_functions.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/visual_functions.js",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/User/TCManager.sublime-snippet",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/CSSLint/CSSLint.sublime-settings",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/fonts/santana/santana.css",
+		"/C/Users/T/AppData/Local/Temp/Rar$DR01.741/stylesheet.css",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/LiveReload/LiveReload.sublime-settings",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/master.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/apprise.css",
+		"/D/Applications/Editeur de texte/Sublime Text 2.0.1 x64/Data/Packages/Theme - Soda/Soda Dark.sublime-theme",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/fonts/raleway/raleway.css",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/css/apprise.min.css",
+		"/C/Users/T/Desktop/filedrag.js",
+		"/C/Users/T/Desktop/index.html",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/ajaxRequest/uploadImg.php",
+		"/C/Users/T/AppData/Local/Temp/Rar$DR04.919/styles.css",
+		"/C/Users/T/AppData/Local/Temp/Rar$DR11.702/filedrag.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/js/other_functions.js",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/ajax/connexion.php",
+		"/C/Users/T/AppData/Local/Temp/Rar$DR01.839/index.html",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/courts/all_courts.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/courts/index.blade.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/views/base_facebook.php",
+		"/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/public/index.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/public/js/visual_functions.js",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/public/js/ajax_fonctions.js",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/public/js/auth_functions.js",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/layouts/defaut.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/courts/index.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/layouts/header.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/ajax/utilisateur_connecte.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/courts/view.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/public/css/master.css",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/courts/all_courts.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/routes.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/controllers/ajax.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/courts/delete.blade.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/controllers/courts.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/views/courts/new.blade.php",
+		"/D/Travail/wamp/scripts/config.inc.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/config/facebook.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/models/court.php",
+		"/D/GDrive/wamp/www/TCManager/TCManagerApps/application/bundles.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"../revue_de_presse",
+			"min",
+			"family",
+			"list-style",
+			"white;",
+			"previous",
+			"cancel",
+			"FR",
+			"password",
+			"id=\"password\"",
+			"()\">\n",
+			");\n",
+			"{\n",
+			"a{",
+			"a {",
+			"H",
+			"alert",
+			"prenom",
+			"){\n",
+			"apprise",
+			"select",
+			"5",
+			">\n",
+			"width",
+			"text-shad",
+			");\n",
+			"id=\"infoForm\"",
+			"id",
+			"..\n",
+			"id=\"element\"",
+			"id=\"widgetElement\"",
+			"@linkC",
+			"command",
+			"</",
+			";\n",
+			"8px",
+			"decoration",
+			"logoTennis",
+			"Regular",
+			"roboto",
+			"submit",
+			"width",
+			">\n",
+			"{{$",
+			"  \n",
+			".js",
+			"master"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"../fichiers/revue_de_presse",
+			"@blanc-casse;",
+			"class=\"infoForm\"",
+			"class=\"element\"",
+			"class=\"widgetElement\"",
+			"shift"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 17,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/layouts/global.blade.php",
+					"settings":
+					{
+						"buffer_size": 2164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2003,
+								1986
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/views/vitrine/traiteur.blade.php",
+					"settings":
+					{
+						"buffer_size": 1987,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								851,
+								851
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/views/vitrine/marches.blade.php",
+					"settings":
+					{
+						"buffer_size": 2472,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								665,
+								665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "application/views/vitrine/boucherie.blade.php",
+					"settings":
+					{
+						"buffer_size": 1983,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1983
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "application/views/vitrine/charcuterie.blade.php",
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "application/views/layouts/footer.blade.php",
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								383,
+								344
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "public/less/global.less",
+					"settings":
+					{
+						"buffer_size": 7943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								467,
+								437
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "public/less/variables.less",
+					"settings":
+					{
+						"buffer_size": 2503,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "public/js/lettre-information.js",
+					"settings":
+					{
+						"buffer_size": 1353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								801,
+								801
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/D/Travail/MINT/CurrentProjects/TCManager/TCManagerApps/application/controllers/home.php",
+					"settings":
+					{
+						"buffer_size": 1316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1040,
+								974
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "application/views/layouts/menu.blade.php",
+					"settings":
+					{
+						"buffer_size": 3071,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2246,
+								2246
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "public/js/menus.js",
+					"settings":
+					{
+						"buffer_size": 396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								330,
+								330
+							]
+						],
+						"settings":
+						{
+							"auto_name": "snippet",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "application/views/vitrine/presse.blade.php",
+					"settings":
+					{
+						"buffer_size": 2344,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								25,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "application/views/vitrine/telechargement.blade.php",
+					"settings":
+					{
+						"buffer_size": 1380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1036,
+								1036
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "application/views/layouts/info-container.blade.php",
+					"settings":
+					{
+						"buffer_size": 520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "public/js/info-container.js",
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "application/routes.php",
+					"settings":
+					{
+						"buffer_size": 3588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1517,
+								1517
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 374.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "application/models/clients.php",
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "application/models/infos.php",
+					"settings":
+					{
+						"buffer_size": 446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "application/controllers/vitrine.php",
+					"settings":
+					{
+						"buffer_size": 3195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2502,
+								2502
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 946.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "application/views/vitrine/boutique.blade.php",
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								275,
+								275
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "application/views/vitrine/commande.blade.php",
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.csslint_result_view":
+	{
+		"height": 136.0
+	},
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"application/views/utilisateurs/inscription.blade.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 321.0,
+	"status_bar_visible": true
+}
