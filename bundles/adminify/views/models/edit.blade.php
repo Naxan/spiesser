@@ -33,7 +33,8 @@
 	<?php $name = $field->field ?>
 
 	@if(stristr($field->type, 'text'))
-		{{Form::textarea($field->field, $entry->$name)}}
+		{{FormA::textarea_ck($field->field, $entry->$name)}}
+        
 	@elseif($field->field == 'password')
 		{{Form::password($field->field)}}
 	@else

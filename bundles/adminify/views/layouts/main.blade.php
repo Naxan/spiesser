@@ -4,6 +4,7 @@
 	<meta charset="utf-8">
 	<title>{{$name}} &raquo; {{$title}}</title>
 	{{Asset::container('header')->styles()}}
+    {{Asset::container('header')->scripts()}}
 	<!--[if lt IE 9]>
 	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->

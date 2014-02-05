@@ -14,6 +14,7 @@ class Adminify_Base_Controller extends Controller {
 		Asset::container('header')->bundle('adminify');
 		Asset::container('header')->add('bootstrap', 'css/bootstrap.min.css');
 		Asset::container('header')->add('style', 'css/style.css');
+		Asset::container('header')->add('ckeditor', 'js/ckeditor/ckeditor.js');
 
 		Asset::container('footer')->bundle('adminify');
 		Asset::container('footer')->add('jquery', 'http://code.jquery.com/jquery-latest.min.js');

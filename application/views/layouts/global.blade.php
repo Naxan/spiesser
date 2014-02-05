@@ -36,6 +36,7 @@
 	{{ HTML::script('js/info-container.js') }}
 	{{ HTML::script("js/mail-contact.js") }}
 	{{ HTML::script("js/impromptu/impromptu.js")}}
+	{{ HTML::script("js/ckeditor/ckeditor.js")}}
 	<script type="text/javascript">
 
 	  var _gaq = _gaq || [];
